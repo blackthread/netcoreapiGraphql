@@ -1,0 +1,10 @@
+C:\_2020\blackthread\netcoreapiGraphql\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_2020\blackthread\netcoreapiGraphql\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_2020\blackthread\netcoreapiGraphql\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\_2020\blackthread\netcoreapiGraphql\bin\Debug\netcoreapp3.1\netcoreapiGraphql.exe
+C:\_2020\blackthread\netcoreapiGraphql\obj\Debug\netcoreapp3.1\netcoreapiGraphql.csprojAssemblyReference.cache
+C:\_2020\blackthread\netcoreapiGraphql\obj\Debug\netcoreapp3.1\staticwebassets\netcoreapiGraphql.StaticWebAssets.Manifest.cache
+C:\_2020\blackthread\netcoreapiGraphql\obj\Debug\netcoreapp3.1\staticwebassets\netcoreapiGraphql.StaticWebAssets.xml
+C:\_2020\blackthread\netcoreapiGraphql\obj\Debug\netcoreapp3.1\netcoreapiGraphql.AssemblyInfoInputs.cache
+C:\_2020\blackthread\netcoreapiGraphql\obj\Debug\netcoreapp3.1\netcoreapiGraphql.AssemblyInfo.cs
+C:\_2020\blackthread\netcoreapiGraphql\obj\Debug\netcoreapp3.1\netcoreapiGraphql.RazorTargetAssemblyInfo.cache
